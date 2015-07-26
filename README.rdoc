@@ -1,0 +1,7 @@
+= omniauth-car2go
+
+An OmniAuth Strategy for the Car2Go API to access private functions. Recommended that you utilize the 'Caruby2go' gem in addition.
+
+== Copyright
+
+Copyright (c) 2015 Jeremy Wemple. See LICENSE for details.
