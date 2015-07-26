@@ -3,7 +3,7 @@ require 'omniauth-car2go/version'
 
 Gem::Specification.new do |s|
   s.name = 'omniauth-car2go'
-  s.version = OmniAuth::Car2Go::VERSION
+  s.version = OmniAuth::Car2go::VERSION
   s.platform = Gem::Platform::RUBY
   s.date = '2015-07-26'
   s.authors = ['Jeremy Wemple']
